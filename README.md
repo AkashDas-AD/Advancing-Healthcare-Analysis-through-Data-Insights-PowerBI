@@ -78,7 +78,6 @@ The primary goal of this project is to create a comprehensive and interactive Po
 ## **Technologies Used**
 
 - **Power BI**: Data modeling, DAX calculations, and interactive visualizations.
-- **Excel**: Data preparation and cleaning.
 - **DAX**: Advanced measures and calculated columns.
 
 ---
